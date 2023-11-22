@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm MD Ryhan</h1>
 <h3 align="center">I'm a data scientist with a specialization in Natural Language Processing (NLP). I have experience working on NLP projects and conducting research in this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-ryhan&label=Profile%20views&color=0e75b6&style=flat" alt="md-ryhan" /> </p>

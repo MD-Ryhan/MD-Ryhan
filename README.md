@@ -9,18 +9,11 @@
 
 - 💬 Ask me about **NLP , Data Science , Python**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_md_ryhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_md_ryhan/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-rehan-702670111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rehan-702670111" height="30" width="40" /></a>
-</p>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/muhammad-rehan-702670111)](https://linkedin.com/in/muhammad-rehan-702670111) 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/kozodoi)](https://www.github.com/kozodoi)
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/MD-Ryhan)](https://github.com/MD-Ryhan)
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/_md_ryhan/)](https://twitter.com/_md_ryhan/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kozodoi)](https://www.kaggle.com/kozodoi)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)](https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)
-[![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/kozodoi)](https://www.buymeacoffee.com/kozodoi)]
+[![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://github.com/MD-Ryhan)](https://github.com/MD-Ryhan)
+[![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/mdrehan)](https://www.buymeacoffee.com/mdrehan)
 
 
 <h3 align="left">Languages and Tools:</h3>
